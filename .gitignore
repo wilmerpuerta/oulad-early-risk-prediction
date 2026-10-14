@@ -1,0 +1,33 @@
+# Dataset OULAD y datos derivados
+*.csv
+*.parquet
+*.pkl
+*.pickle
+*.joblib
+*.npz
+*.pt
+*.pth
+*.ckpt
+*.zip
+!requirements.txt
+
+# Datos, snapshots y resultados privados / pesados
+datos/
+snapshots/
+artefactos/
+cache_dataset_oulad/
+.ipynb_checkpoints/
+__pycache__/
+*.tmp
+*.partial
+
+# Credenciales
+.env
+.env.*
+*.key
+kaggle.json
+credentials*.json
+*token*.json
+
+# Informes de ejecución local
+.DS_Store
