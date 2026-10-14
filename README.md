@@ -17,7 +17,7 @@ Se compara el uso de características **estáticas (A)** con **estáticas + long
 
 ## Archivo principal
 
-- `WP_Final_Proyecto_ML_GitHub.ipynb`: versión legible para GitHub, con código y metodología y con salidas voluminosas eliminadas (mantiene algunas figuras ilustrativas de t-SNE).
+- `WP_Final_Proyecto_ML_GitHub.ipynb`: versión legible para GitHub, con código y metodología y con salidas embebidas eliminadas para facilitar su publicación; las figuras y resultados numéricos están explicados en el texto, y los archivos originales se conservan en el Drive del proyecto.
 - `requirements.txt`: dependencias recomendadas; no es un lockfile que garantice reproducción bit a bit.
 - `REVISION_FINAL.md`: auditoría de la revisión final, limitaciones y verificación previa a la defensa.
 - `.gitignore`: evita incluir datos y artefactos potencialmente voluminosos o sensibles.
